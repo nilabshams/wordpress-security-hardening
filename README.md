@@ -85,14 +85,14 @@ Additional WordPress hardening measures were reviewed and applied where appropri
 
 After implementing the security improvements:
 
--  Web Application Firewall properly configured ✔
--  Brute-force protection enabled ✔
--  Rate limiting configured ✔
--  Strong password policies enforced ✔
--  Leaked password protection enabled ✔
--  Contact form hardened against oversized submissions ✔
--  Website attack surface reduced ✔
--  Overall WordPress security posture significantly improved ✔
+✔  Web Application Firewall properly configured 
+✔  Brute-force protection enabled 
+✔  Rate limiting configured 
+✔  Strong password policies enforced 
+✔  Leaked password protection enabled 
+✔  Contact form hardened against oversized submissions 
+✔  Website attack surface reduced 
+✔  Overall WordPress security posture significantly improved 
 
 ## Lessons Learned
 
